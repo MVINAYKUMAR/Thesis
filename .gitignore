@@ -1,0 +1,17 @@
+data/
+dataset/
+*.zip
+*.tar
+*.tar.gz
+data/
+dataset/
+results/
+*.zip
+*.tar
+*.tar.gz
+data/
+dataset/
+results/
+*.zip
+*.tar
+*.tar.gz
